@@ -13,3 +13,6 @@ i=0
 for i in range(6):
     niz.append(i)
 print(niz)
+
+#bla blas
+a=1
